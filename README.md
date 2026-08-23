@@ -40,7 +40,7 @@ In testing mode, the leaderboard panel drops race-only information. A session ti
 
 ## Installation
 
-Follow the [step-by-step installation guide](Pitboardz-Install-Instructions.pdf).
+Download the plugin from the [Releases page](https://github.com/MaximusTrue/Pitboardz-Public/releases), then follow the [step-by-step installation guide](Pitboardz-Install-Instructions.pdf).
 
 ## Configuration
 
